@@ -1,2 +1,2 @@
-# Harshit-Hello-World
+# Harry-Hello-World
 my first Git repository 
